@@ -1,0 +1,146 @@
+﻿@using PagedList.Core.Mvc
+@model PagedList.Core.IPagedList<WebGoMarkets.Models.Product>
+
+@{
+    ViewData["Title"] = "Product list " + ViewBag.CurrentPage;
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="page-header">
+    <div class="header-sub-title">
+        <nav class="breadcrumb breadcrumb-dash">
+            <a asp-area="Admin" asp-controller="Home" asp-action="Index" class="breadcrumb-item"><i class="anticon anticon-home m-r-5"></i>Home</a>
+            <span class="breadcrumb-item active">Product list: page @ViewBag.CurrentPage</span>
+        </nav>
+    </div>
+</div>
+<div class="card">
+    <div class="card-body">
+        <div class="row m-b-30">
+            <div class="col-md-4">
+                <div class="input-affix">
+                    <i class="prefix-icon anticon anticon-search opacity-04"></i>
+                    <input type="text" id="keyword" name="keyword" class="form-control" placeholder="Search Product">
+                </div>
+            </div>
+            <div class="col-lg-2">
+                <div class="m-b-10 m-r-15">
+                    <select class="custom-select" id="txtCatID" name="txtCatID" style="min-width: 180px;" asp-items="ViewBag.Category">
+                        <option value="" disabled selected>Choose category</option>
+                        <option value="0">Choose all</option>
+                    </select>
+                </div>
+            </div>
+            <div class="col-lg-6 text-right">
+                <a asp-area="Admin" asp-controller="AdminProducts" asp-action="Create" class="btn btn-primary">
+                    <i class="anticon anticon-plus-circle m-r-5"></i>
+                    <span>Add Product</span>
+                </a>
+            </div>
+        </div>
+        <div class="table-responsive">
+            <table class="table table-hover e-commerce-table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Product Name</th>
+                        <th>Category</th>
+                        <th>Price</th>
+                        <th>Inventory</th>
+                        <th>Status</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="records_table">
+                    @if (Model != null)
+                    {
+                        foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.ProductId</td>
+                                <td>@item.ProductName</td>
+                                <td>@item.Cat?.CatName</td>
+                                <td>@item.Price$</td>
+                                <td>@item.UnitsInStock</td>
+                                <td>
+                                    @if (item.UnitsInStock.Value > 0)
+                                    {
+                                        <div class="d-flex align-items-center">
+                                            <div class="badge badge-success badge-dot m-r-10"></div>
+                                            <div>In stock</div>
+                                        </div>
+                                    }
+                                    else
+                                    {
+                                        <div class="d-flex align-items-center">
+                                            <div class="badge badge-dark badge-dot m-r-10"></div>
+                                            <div>Out stock</div>
+                                        </div>
+                                    }
+                                </td>
+                                <td>
+                                    <a class="btn btn-info  btn-tone m-r-5" asp-area="Admin" asp-controller="AdminProducts" asp-action="Details" asp-route-id="@item.ProductId">View</a>
+                                    <a class="btn btn-secondary btn-tone m-r-5" asp-area="Admin" asp-controller="AdminProducts" asp-action="Edit" asp-route-id="@item.ProductId">Edit</a>
+                                    <a class="btn btn-danger  btn-tone m-r-5" asp-area="Admin" asp-controller="AdminProducts" asp-action="Delete" asp-route-id="@item.ProductId">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+            <div aria-label="Page navigation example">
+                <ul class="pagination">
+                    <pager class="pager-container" list="@Model" asp-area="Admin" asp-route-CatID="@ViewBag.CurrentCateID"
+                           asp-controller="AdminProducts" asp-action="Index" />
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            jQuery("#txtCatID").change(function () {
+                var catID = jQuery(this).children(":selected").attr("value");
+                catID = parseFloat(catID);
+                $('#txtCatID option').removeAttr('selected');
+                $("#txtCatID > [value=" + catID + "]").attr("selected", "true");
+                $.ajax({
+                    url: '/Admin/AdminProducts/Filtter',
+                    datatype: "json",
+                    type: "GET",
+                    data: {
+                        CatID: catID
+                    },
+                    async: true,
+                    success: function (results) {
+                        if (results.status == "success") {
+                            window.location.href = results.redirectUrl;
+                        }
+                    },
+                    error: function (xhr) {
+                        alert('error');
+                    }
+                });
+            });
+            $("#keyword").keyup(function () {
+                var strkeyword = $('#keyword').val();
+                $.ajax({
+                    url: '/Admin/Search/FindProduct/',
+                    datatype: "json",
+                    type: "POST",
+                    data: { keyword: strkeyword },
+                    async: true,
+                    success: function (results) {
+                        $("#records_table").html("");
+                        $("#records_table").html(results);
+                    },
+                    error: function (xhr) {
+                        alert('error');
+                    }
+                });
+            });
+        });
+    </script>
+}

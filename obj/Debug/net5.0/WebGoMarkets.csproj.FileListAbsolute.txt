@@ -1,0 +1,632 @@
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\appsettings.json
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\WebGoMarkets.exe
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\WebGoMarkets.deps.json
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\WebGoMarkets.runtimeconfig.json
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\WebGoMarkets.runtimeconfig.dev.json
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\WebGoMarkets.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\ref\WebGoMarkets.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\WebGoMarkets.pdb
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\WebGoMarkets.Views.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\WebGoMarkets.Views.pdb
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.csproj.AssemblyReference.cache
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.AssemblyInfoInputs.cache
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.AssemblyInfo.cs
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.csproj.CoreCompileInputs.cache
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.RazorAssemblyInfo.cache
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.RazorAssemblyInfo.cs
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\staticwebassets\WebGoMarkets.StaticWebAssets.Manifest.cache
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\staticwebassets\WebGoMarkets.StaticWebAssets.xml
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\scopedcss\bundle\WebGoMarkets.styles.css
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.TagHelpers.input.cache
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.TagHelpers.output.cache
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.RazorCoreGenerate.cache
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.RazorTargetAssemblyInfo.cache
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.RazorTargetAssemblyInfo.cs
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.Views.pdb
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\ref\WebGoMarkets.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.pdb
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.genruntimeconfig.cache
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.csproj.CopyComplete
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\Humanizer.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\THIEN BA\source\repos\WebGoMarkets\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_SideNavPartialView.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.csproj.AssemblyReference.cache
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.AssemblyInfoInputs.cache
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.AssemblyInfo.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.csproj.CoreCompileInputs.cache
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.MvcApplicationPartsAssemblyInfo.cache
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.RazorAssemblyInfo.cache
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.RazorAssemblyInfo.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\ref\WebGoMarkets.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.pdb
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\appsettings.Development.json
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\appsettings.json
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Web.config
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\WebGoMarkets.exe
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\WebGoMarkets.deps.json
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\WebGoMarkets.runtimeconfig.json
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\WebGoMarkets.runtimeconfig.dev.json
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\WebGoMarkets.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\ref\WebGoMarkets.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\WebGoMarkets.pdb
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\WebGoMarkets.Views.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\WebGoMarkets.Views.pdb
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Humanizer.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\staticwebassets\WebGoMarkets.StaticWebAssets.Manifest.cache
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\staticwebassets\WebGoMarkets.StaticWebAssets.xml
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\scopedcss\bundle\WebGoMarkets.styles.css
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.TagHelpers.input.cache
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.TagHelpers.output.cache
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.RazorCoreGenerate.cache
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_SideNavPartialView.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.RazorTargetAssemblyInfo.cache
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.RazorTargetAssemblyInfo.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.Views.pdb
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.csproj.CopyComplete
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.genruntimeconfig.cache
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\WebGoMarkets.StaticWebAssets.xml
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\mscorlib.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\netstandard.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Collections.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Console.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Core.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Data.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.IO.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Linq.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Memory.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Net.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Security.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Threading.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Web.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Windows.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Xml.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\AspNetCoreHero.ToastNotification.Views.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\AspNetCoreHero.ToastNotification.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\PagedList.Core.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\PagedList.Core.Mvc.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\WebGoMarkets.MvcApplicationPartsAssemblyInfo.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Create.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Delete.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Details.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Edit.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Index.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Shared\_FooterPartialView.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Shared\_HeaderPartialView.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Create.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Delete.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Details.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Edit.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Index.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Create.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Delete.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Details.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Edit.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Index.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Create.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Delete.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Details.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Edit.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Index.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Delete.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Details.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Edit.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Index.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\Search\ListProductsSearchPartial.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Create.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Delete.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Details.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Edit.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Index.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminTinDangs\Create.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminTinDangs\Delete.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminTinDangs\Details.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminTinDangs\Edit.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminTinDangs\Index.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Page\Details.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Product\List.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Blog\Details.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Home\_ListProductPartialView.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Create.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Accounts\DangkyTaikhoan.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Accounts\Login.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Accounts\Dashboard.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Accounts\_DonHangPartialView.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Accounts\_ChangePasswordPartialView.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Shared\Components\HeaderCart\Default.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Shared\Components\NumberCart\Default.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Views\Checkout\Success.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminOrders\Create.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminOrders\Delete.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminOrders\Details.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminOrders\Edit.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminOrders\Index.cshtml.g.cs
+D:\CTIMSchool\TERM-5\ASP.NET\FinalProject\WebGoMarkets\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminOrders\ChangeStatus.cshtml.g.cs

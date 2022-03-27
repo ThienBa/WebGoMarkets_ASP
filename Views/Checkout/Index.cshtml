@@ -1,0 +1,257 @@
+﻿@model WebGoMarkets.ModelViews.MuaHangVM
+
+@{
+    ViewData["Title"] = "Checkout";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    List<WebGoMarkets.ModelViews.CartItem> Carts = ViewBag.GioHang;
+}
+
+@section Styles {
+    <style type="text/css">
+        /*custom scrollbar end here */
+        .nice-select .list {
+            border-radius: 0px;
+            overflow-y: auto;
+            overflow: hidden;
+            max-height: 200px;
+            overflow-y: scroll;
+        }
+
+        .nice-select .option:hover, .nice-select .option.focus, .nice-select .option.selected.focus {
+            color: red;
+            background: none;
+        }
+    </style>
+}
+
+<div class="breadcrumb-area breadcrumb-height" data-bg-image="assets/images/breadcrumb/bg/1-1-1920x373.jpg">
+    <div class="container h-100">
+        <div class="row h-100">
+            <div class="col-lg-12">
+                <div class="breadcrumb-item">
+                    <h2 class="breadcrumb-heading">Checkout</h2>
+                    <ul>
+                        <li>
+                            <a href="index.html">Home <i class="pe-7s-angle-right"></i></a>
+                        </li>
+                        <li>Checkout</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="checkout-area section-space-y-axis-100">
+    <div class="container">
+        <form asp-controller="Checkout" asp-action="Index" method="post">
+            <input hidden asp-for="CustomerId"/>
+            <div class="row">
+                <div class="col-lg-6 col-12">
+                    <div class="checkbox-form">
+                        <h3>Billing Details</h3>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="checkout-form-list">
+                                    <label>Fullname<span class="required">*</span></label>
+                                    <input asp-for="FullName" placeholder="Fullname" type="text">
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="checkout-form-list">
+                                    <label>Phone Number<span class="required">*</span></label>
+                                    <input asp-for="Phone" placeholder="Phone Number" type="text">
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="checkout-form-list">
+                                    <label>Deliver address<span class="required">*</span></label>
+                                    <input asp-for="Address" placeholder="Deliver Address" type="text">
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="country-select">
+                                    <label>Province<span class="required">*</span></label>
+                                    <select asp-for="TinhThanh" class="myniceselect nice-select" asp-items="ViewBag.lsTinhThanh">
+                                        <option value="0" disabled selected>Choose province</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="country-select">
+                                    <label>District<span class="required">*</span></label>
+                                    <select asp-for="QuanHuyen" class="myniceselect wide">
+                                        <option value="0" disabled selected>Choose district</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="country-select">
+                                    <label>Ward<span class="required">*</span></label>
+                                    <select asp-for="PhuongXa" class="myniceselect nice-select wide">
+                                        <option value="0" disabled selected>Choose ward</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12">
+                    <div class="your-order">
+                        <h3>Your order</h3>
+                        <div class="your-order-table table-responsive">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th class="cart-product-name">Product</th>
+                                        <th class="cart-product-total">Total</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @if (Carts.Count() > 0)
+                                    {
+                                        foreach (var item in Carts)
+                                        {
+                                            <tr class="cart_item">
+                                                <td class="cart-product-name">
+                                                    @item.product.ProductName<strong class="product-quantity">
+                                                        × @item.amount
+                                                    </strong>
+                                                </td>
+                                                <td class="cart-product-total"><span class="amount">$@item.TotalMoney.ToString("#,##0")</span></td>
+                                            </tr>
+                                        }
+                                    }
+                                </tbody>
+                                <tfoot>
+                                    <tr class="order-total">
+                                        <th>Total price</th>
+                                        <td><span class="amount">$@Carts.Sum(x => x.TotalMoney)</span></td>
+                                    </tr>
+                                </tfoot>
+                            </table>
+                        </div>
+                        <div class="payment-method">
+                            <div class="payment-accordion">
+                                <div id="accordion">
+                                    <div class="card">
+                                        <div class="card-header" id="#payment-1">
+                                            <h5 class="panel-title">
+                                                <a href="javascript:void(0)" class="" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true">
+                                                    Pay On Delivery (COD)
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <div id="collapseOne" class="collapse show" data-bs-parent="#accordion">
+                                            <div class="card-body">
+                                                <p>Customers will pay when receiving the goods.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header" id="#payment-2">
+                                            <h5 class="panel-title">
+                                                <a href="javascript:void(0)" class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false">
+                                                    Bank transfer
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <div id="collapseTwo" class="collapse" data-bs-parent="#accordion">
+                                            <div class="card-body">
+                                                <p>
+                                                    Make your payment directly into our bank account. Please use your Order
+                                                    ID as the payment
+                                                    reference. Your order won’t be shipped until the funds have cleared in
+                                                    our account.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header" id="#payment-3">
+                                            <h5 class="panel-title">
+                                                <a href="javascript:void(0)" class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false">
+                                                    PayPal
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <div id="collapseThree" class="collapse" data-bs-parent="#accordion">
+                                            <div class="card-body">
+                                                <p>
+                                                    Make your payment directly into our bank account. Please use your Order
+                                                    ID as the payment
+                                                    reference. Your order won’t be shipped until the funds have cleared in
+                                                    our account.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="order-button-payment">
+                                    <input value="CONFIRM ORDER" type="submit">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('select').niceSelect();
+            $(function () {
+                $("#TinhThanh").change(function () {
+                    var locationid = $('#TinhThanh').val();
+                    $.ajax({
+                        url: '/Location/QuanHuyenList',
+                        type: "GET",
+                        dataType: "JSON",
+                        data: { LocationId: locationid },
+                        success: function (QuanHuyens) {
+                            $("#QuanHuyen").empty();// clear before appending new list
+                            $("#PhuongXa").empty();
+                            var strPhuongXa = '<option value="" disabled selected>Ward</option>';
+                            $("#PhuongXa").append(strPhuongXa);
+                            var strQuanHuyen = '<option value="" disabled selected>District</option>';
+                            $("#QuanHuyen").append(strQuanHuyen);
+                            $.each(QuanHuyens, function (i, item) {
+                                var option = '<option value ="' + item.locationId + '">' + item.name + '</option>';
+                                $("#QuanHuyen").append(option);
+                            });
+                            $('select').niceSelect('update');
+                        },
+                        error: function (error) {
+                            alert("There was an error posting the data to the server:" + error.responseText);
+                        }
+                    });
+                });
+                $("#QuanHuyen").change(function () {
+                    var locationid = $('#QuanHuyen').val();
+                    $.ajax({
+                        url: '/Location/PhuongXaList',
+                        type: "GET",
+                        dataType: "JSON",
+                        data: { LocationId: locationid },
+                        success: function (PhuongXalist) {
+                            // clear before appending new list
+                            $("#PhuongXa").empty();
+                            var readonly = '<option value="" disabled selected>Ward</option>';
+                            $("#PhuongXa").append(readonly);
+                            $.each(PhuongXalist, function (i, item) {
+                                var option = '<option value ="' + item.locationId + '">' + item.name + '</option>';
+                                $("#PhuongXa").append(option);
+                            });
+                            $('select').niceSelect('update');
+                        },
+                        error: function (error) {
+                            alert("There was an error posting the data to the server:" + error.responseText);
+                        }
+                    });
+                });
+            });
+        });
+    </script>
+}

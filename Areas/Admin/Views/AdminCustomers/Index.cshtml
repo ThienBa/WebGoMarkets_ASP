@@ -1,0 +1,78 @@
+﻿@using PagedList.Core.Mvc
+@model PagedList.Core.IPagedList<WebGoMarkets.Models.Customer>
+
+@{
+    int CurrentPage = ViewBag.CurrentPage;
+    ViewData["Title"] = "Customer list " + CurrentPage;
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="page-header">
+    <div class="header-sub-title">
+        <nav class="breadcrumb breadcrumb-dash">
+            <a asp-area="Admin" asp-controller="Home" asp-action="Index" class="breadcrumb-item"><i class="anticon anticon-home m-r-5"></i>Home</a>
+            <span class="breadcrumb-item active">Customer list: page @CurrentPage</span>
+        </nav>
+    </div>
+</div>
+<div class="card">
+    <div class="card-body">
+        <div class="row m-b-30">
+            <div class="col-lg-8">
+                <div class="d-md-flex">
+                    <div class="m-b-10 m-r-15">
+                        <select class="custom-select" id="idRole" name="idRole" style="min-width: 180px;" asp-items="ViewBag.roles">
+                            <option value="" disabled selected>Choose role</option>
+                        </select>
+                    </div>
+                    <div class="m-b-10">
+                        <select class="custom-select" id="idStatus" name="idStatus" style="min-width: 180px;" asp-items="ViewBag.lsStatus">
+                            <option value="" disabled selected>Choose status</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="table-responsive">
+            <table class="table table-hover e-commerce-table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Fullname</th>
+                        <th>Address</th>
+                        <th>Province</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model != null)
+                    {
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.CustomerId</td>
+                                <td>
+                                    <p>@item.FullName</p>
+                                    <p>@item.Email</p>
+                                    <p>@item.Phone</p>
+                                </td>
+                                <td>@item.Address</td>
+                                <td>@item.Location?.Name</td>
+                                <td>
+                                    <a class="btn btn-info  btn-tone m-r-5" asp-area="Admin" asp-controller="AdminCustomers" asp-action="Details" asp-route-id="@item.CustomerId">View</a>
+                                    <a class="btn btn-secondary btn-tone m-r-5" asp-area="Admin" asp-controller="AdminCustomers" asp-action="Edit" asp-route-id="@item.CustomerId">Edit</a>
+                                    <a class="btn btn-danger  btn-tone m-r-5" asp-area="Admin" asp-controller="AdminCustomers" asp-action="Delete" asp-route-id="@item.CustomerId">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+            <div aria-label="Page navigation example">
+                <ul class="pagination">
+                    <pager class="pager-container" list="@Model" asp-area="Admin" asp-controller="AdminCustomers" asp-action="Index" />
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
